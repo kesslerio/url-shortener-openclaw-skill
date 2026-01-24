@@ -29,7 +29,7 @@ shorten https://github.com/kesslerio/clawdbot
 Apache-2.0
 
 ## Repository
-[https://github.com/kesslerio/URL-Shortener-Clawdbot-Skill-](https://github.com/kesslerio/URL-Shortener-Clawdbot-Skill-)
+[https://github.com/kesslerio/url-shortener-clawdbot-skill](https://github.com/kesslerio/url-shortener-clawdbot-skill)
 
 ## Registry
 [ClawdHub](https://clawdhub.com)
