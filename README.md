@@ -21,7 +21,7 @@ shorten <url>
 
 **Example:**
 ```bash
-shorten https://github.com/kesslerio/clawdbot
+shorten https://github.com/kesslerio/moltbot
 # Output: https://is.gd/example
 ```
 
@@ -29,7 +29,7 @@ shorten https://github.com/kesslerio/clawdbot
 Apache-2.0
 
 ## Repository
-[https://github.com/kesslerio/url-shortener-clawdbot-skill](https://github.com/kesslerio/url-shortener-clawdbot-skill)
+[https://github.com/kesslerio/url-shortener-moltbot-skill](https://github.com/kesslerio/url-shortener-moltbot-skill)
 
 ## Registry
 [ClawdHub](https://clawdhub.com)
