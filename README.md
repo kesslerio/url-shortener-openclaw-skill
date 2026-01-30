@@ -1,6 +1,6 @@
-# Clawdbot Shorten Skill
+# OpenClaw Shorten Skill
 
-Quickly shorten URLs using [is.gd](https://is.gd) directly from Clawdbot.
+Quickly shorten URLs using [is.gd](https://is.gd) directly from OpenClaw.
 
 ## Features
 - **Zero setup**: No API key or account required
@@ -21,7 +21,7 @@ shorten <url>
 
 **Example:**
 ```bash
-shorten https://github.com/kesslerio/moltbot
+shorten https://github.com/kesslerio/openclaw
 # Output: https://is.gd/example
 ```
 
@@ -29,7 +29,7 @@ shorten https://github.com/kesslerio/moltbot
 Apache-2.0
 
 ## Repository
-[https://github.com/kesslerio/url-shortener-moltbot-skill](https://github.com/kesslerio/url-shortener-moltbot-skill)
+[https://github.com/kesslerio/url-shortener-openclaw-skill](https://github.com/kesslerio/url-shortener-openclaw-skill)
 
 ## Registry
 [ClawdHub](https://clawdhub.com)
