@@ -1,6 +1,6 @@
 ---
 name: shorten
-description: Shorten URLs using is.gd (no auth required). Returns a permanent short link.
+description: URL shortening via is.gd (no auth required, permanent links). Use when: 'shorten this URL', 'short link', 'make URL shorter', 'create short link'. Simple, fast, no tracking. NOT for branded short links or analytics (no custom domains supported). NOT for YOURLS links (use shapescale-tools for YOURLS).
 ---
 
 # Shorten
